@@ -2,6 +2,7 @@
 ## Adding degree of freedom: 
 ### the objective of this task is to add a degree of freedom to the robot arm from previos task (task #1).
 
+
 **previos robot arm:**
 
 ![image](https://user-images.githubusercontent.com/85939115/122607787-c9ced280-d083-11eb-8826-f544e2568368.png)
@@ -18,6 +19,7 @@ https://user-images.githubusercontent.com/85939115/123015404-fc086900-d3d0-11eb-
 
 **the assembly of the added degree of freedom:**
 
+https://user-images.githubusercontent.com/85939115/123015675-910b6200-d3d1-11eb-856d-1aef3a1fd449.mp4
 
 **robot arm with added degree of freedom:**
 
